@@ -1,6 +1,6 @@
 //Functions.h
-//Created by Torisima 2025
-//License : https://github.com/Dev-Torisima/Imqutive-Codes/blob/main/LICENSE
+//Created by Imqutive 2025
+//License : https://github.com/torisimao/Imqutive-Codes/blob/main/LICENSE
 
 #pragma once
 
