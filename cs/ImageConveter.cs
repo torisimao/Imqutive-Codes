@@ -1,5 +1,5 @@
 //ImageConverter.cs
-//Created by Torisima 2025
+//Created by Imqutive 2025
 //Using : BitChanger.cs
 
 using System;
